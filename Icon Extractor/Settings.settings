@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsFile CurrentProfile="(Default)" GeneratedClassNamespace="Icon_Extractor" GeneratedClassName="Settings" xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings>
+    <Setting Name="Format" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">.ico</Value>
+    </Setting>
+    <Setting Name="ImageSize" Type="System.Int32" Scope="User" Roaming="false">
+      <Value Profile="(Default)">48</Value>
+    </Setting>
+    <Setting Name="Size" Type="System.Int32" Scope="User" Roaming="false">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
